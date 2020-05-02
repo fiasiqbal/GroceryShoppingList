@@ -1,0 +1,91 @@
+[
+    {
+        "serialnumber":"1",
+        "name":"Tea",
+        "quantity":"500",
+        "unit":"Grams",
+        "department":"Beverages",
+        "notes":"Red Label"
+    },
+
+    {
+        "serialnumber":"2",
+        "name":"Bathing Soap",
+        "quantity":"4",
+        "unit":"Numbers",
+        "department":"Health & Personal Care",
+        "notes":"Lifebuoy"
+    },
+    
+    {
+        "serialnumber":"3",
+        "name":"Potato Chips",
+        "quantity":"2",
+        "unit":"Packets",
+        "department":"Snacks & Desserts",
+        "notes":"Pringles"
+    },
+    
+    {
+        "serialnumber":"4",
+        "name":"Potato",
+        "quantity":"1",
+        "unit":"Kilogram",
+        "department":"Vegetables",
+        "notes":"Organic"
+    },
+    
+    {
+        "serialnumber":"5",
+        "name":"Apple",
+        "quantity":"1",
+        "unit":"Kilogram",
+        "department":"Fruits",
+        "notes":"Shimla"
+    },
+    
+    {
+        "serialnumber":"6",
+        "name":"Rice",
+        "quantity":"5",
+        "unit":"Kilograms",
+        "department":"Staples",
+        "notes":"Basmati"
+    },
+    
+    {
+        "serialnumber":"7",
+        "name":"Chocolate",
+        "quantity":"4",
+        "unit":"Numbers",
+        "department":"Snacks & Desserts",
+        "notes":"Snickers"
+    },
+    
+    {
+        "serialnumber":"8",
+        "name":"Sunflower Oil",
+        "quantity":"1",
+        "unit":"Litre",
+        "department":"Staples",
+        "notes":"Gold Winner"
+    },
+    
+    {
+        "serialnumber":"9",
+        "name":"Guava Juice",
+        "quantity":"1",
+        "unit":"Litre",
+        "department":"Beverages",
+        "notes":"B Natural"
+    },
+    
+    {
+        "serialnumber":"10",
+        "name":"Milk",
+        "quantity":"1",
+        "unit":"Litre",
+        "department":"Dairy",
+        "notes":"Amul Taaza"
+    }
+]
